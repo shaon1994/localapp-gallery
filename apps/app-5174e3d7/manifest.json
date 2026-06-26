@@ -1,0 +1,22 @@
+{
+  "id": "app-5174e3d7",
+  "name": "卡通萌萌计算器 🐱",
+  "icon": "卡",
+  "description": "Preset page imported from code_artifact (7).html",
+  "version": "1.0.0",
+  "author": "shaon1994",
+  "sourceFile": "code_artifact (7).html",
+  "createdAt": 1782465088651,
+  "updatedAt": 1782465088651,
+  "publishedAt": 1782465088651,
+  "entry": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-5174e3d7/index.html",
+  "repository": "https://github.com/shaon1994/localapp-gallery",
+  "tags": [
+    "Preset",
+    "LocalApp"
+  ],
+  "security": {
+    "mode": "obfuscated-wrapper",
+    "note": "The public page is payload-obfuscated to avoid uploading readable source, not cryptographically private."
+  }
+}
