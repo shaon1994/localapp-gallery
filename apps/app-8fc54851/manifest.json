@@ -1,0 +1,22 @@
+{
+  "id": "app-8fc54851",
+  "name": "神笔汉字魔法学院 - 全感官识字书写物理沙盒",
+  "icon": "神",
+  "description": "Preset page imported from code_artifact (5).html",
+  "version": "1.0.0",
+  "author": "shaon1994",
+  "sourceFile": "code_artifact (5).html",
+  "createdAt": 1782465083314,
+  "updatedAt": 1782465083314,
+  "publishedAt": 1782465083314,
+  "entry": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-8fc54851/index.html",
+  "repository": "https://github.com/shaon1994/localapp-gallery",
+  "tags": [
+    "Preset",
+    "LocalApp"
+  ],
+  "security": {
+    "mode": "obfuscated-wrapper",
+    "note": "The public page is payload-obfuscated to avoid uploading readable source, not cryptographically private."
+  }
+}
