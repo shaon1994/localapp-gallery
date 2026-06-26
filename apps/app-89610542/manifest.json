@@ -1,0 +1,22 @@
+{
+  "id": "app-89610542",
+  "name": "家庭记账助手 - 智能共享家庭财务",
+  "icon": "家",
+  "description": "Preset page imported from family_ledger_assistant.html",
+  "version": "1.0.0",
+  "author": "shaon1994",
+  "sourceFile": "family_ledger_assistant.html",
+  "createdAt": 1782465091539,
+  "updatedAt": 1782465091539,
+  "publishedAt": 1782465091539,
+  "entry": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-89610542/index.html",
+  "repository": "https://github.com/shaon1994/localapp-gallery",
+  "tags": [
+    "Preset",
+    "LocalApp"
+  ],
+  "security": {
+    "mode": "obfuscated-wrapper",
+    "note": "The public page is payload-obfuscated to avoid uploading readable source, not cryptographically private."
+  }
+}
