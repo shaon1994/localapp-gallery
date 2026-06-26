@@ -1,0 +1,22 @@
+{
+  "id": "app-834af3aa",
+  "name": "奇幻汉字魔法世界 - 4岁识字书写全感官沙盒",
+  "icon": "奇",
+  "description": "Preset page imported from code_artifact (4).html",
+  "version": "1.0.0",
+  "author": "shaon1994",
+  "sourceFile": "code_artifact (4).html",
+  "createdAt": 1782465080854,
+  "updatedAt": 1782465080854,
+  "publishedAt": 1782465080854,
+  "entry": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-834af3aa/index.html",
+  "repository": "https://github.com/shaon1994/localapp-gallery",
+  "tags": [
+    "Preset",
+    "LocalApp"
+  ],
+  "security": {
+    "mode": "obfuscated-wrapper",
+    "note": "The public page is payload-obfuscated to avoid uploading readable source, not cryptographically private."
+  }
+}
