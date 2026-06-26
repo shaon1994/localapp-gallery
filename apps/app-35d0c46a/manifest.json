@@ -1,0 +1,22 @@
+{
+  "id": "app-35d0c46a",
+  "name": "奇妙英语乐园 - Magic English Land",
+  "icon": "奇",
+  "description": "Preset page imported from code_artifact (1).html",
+  "version": "1.0.0",
+  "author": "shaon1994",
+  "sourceFile": "code_artifact (1).html",
+  "createdAt": 1782465073164,
+  "updatedAt": 1782465073164,
+  "publishedAt": 1782465073164,
+  "entry": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-35d0c46a/index.html",
+  "repository": "https://github.com/shaon1994/localapp-gallery",
+  "tags": [
+    "Preset",
+    "LocalApp"
+  ],
+  "security": {
+    "mode": "obfuscated-wrapper",
+    "note": "The public page is payload-obfuscated to avoid uploading readable source, not cryptographically private."
+  }
+}
