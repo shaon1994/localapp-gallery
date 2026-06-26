@@ -1,0 +1,22 @@
+{
+  "id": "app-023f167b",
+  "name": "神笔马良魔法画板",
+  "icon": "神",
+  "description": "Preset page imported from code_artifact (6).html",
+  "version": "1.0.0",
+  "author": "shaon1994",
+  "sourceFile": "code_artifact (6).html",
+  "createdAt": 1782465085783,
+  "updatedAt": 1782465085783,
+  "publishedAt": 1782465085783,
+  "entry": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-023f167b/index.html",
+  "repository": "https://github.com/shaon1994/localapp-gallery",
+  "tags": [
+    "Preset",
+    "LocalApp"
+  ],
+  "security": {
+    "mode": "obfuscated-wrapper",
+    "note": "The public page is payload-obfuscated to avoid uploading readable source, not cryptographically private."
+  }
+}
