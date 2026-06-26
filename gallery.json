@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": 1782465096601,
+  "updatedAt": 1782465364458,
   "apps": [
     {
       "id": "app-1dca1735",
@@ -13,13 +13,18 @@
         "Preset",
         "LocalApp"
       ],
-      "coverUrl": "",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-1dca1735/cover.png?v=1782465212584",
       "appUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-1dca1735/index.html",
       "manifestUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-1dca1735/manifest.json",
       "repoUrl": "https://github.com/shaon1994/localapp-gallery/tree/main/apps/app-1dca1735",
       "sourceFile": "ar.html",
       "publishedAt": 1782465070400,
-      "updatedAt": 1782465070400
+      "updatedAt": 1782465070400,
+      "previewViewport": {
+        "width": 1024,
+        "height": 768,
+        "device": "pad"
+      }
     },
     {
       "id": "app-35d0c46a",
@@ -32,13 +37,18 @@
         "Preset",
         "LocalApp"
       ],
-      "coverUrl": "",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-35d0c46a/cover.png?v=1782465229204",
       "appUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-35d0c46a/index.html",
       "manifestUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-35d0c46a/manifest.json",
       "repoUrl": "https://github.com/shaon1994/localapp-gallery/tree/main/apps/app-35d0c46a",
       "sourceFile": "code_artifact (1).html",
       "publishedAt": 1782465073164,
-      "updatedAt": 1782465073164
+      "updatedAt": 1782465073164,
+      "previewViewport": {
+        "width": 1024,
+        "height": 768,
+        "device": "pad"
+      }
     },
     {
       "id": "app-ae79e028",
@@ -51,13 +61,18 @@
         "Preset",
         "LocalApp"
       ],
-      "coverUrl": "",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-ae79e028/cover.png?v=1782465245676",
       "appUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-ae79e028/index.html",
       "manifestUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-ae79e028/manifest.json",
       "repoUrl": "https://github.com/shaon1994/localapp-gallery/tree/main/apps/app-ae79e028",
       "sourceFile": "code_artifact (2).html",
       "publishedAt": 1782465075913,
-      "updatedAt": 1782465075913
+      "updatedAt": 1782465075913,
+      "previewViewport": {
+        "width": 1024,
+        "height": 768,
+        "device": "pad"
+      }
     },
     {
       "id": "app-1f39e891",
@@ -70,13 +85,18 @@
         "Preset",
         "LocalApp"
       ],
-      "coverUrl": "",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-1f39e891/cover.png?v=1782465263279",
       "appUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-1f39e891/index.html",
       "manifestUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-1f39e891/manifest.json",
       "repoUrl": "https://github.com/shaon1994/localapp-gallery/tree/main/apps/app-1f39e891",
       "sourceFile": "code_artifact (3).html",
       "publishedAt": 1782465078430,
-      "updatedAt": 1782465078430
+      "updatedAt": 1782465078430,
+      "previewViewport": {
+        "width": 1024,
+        "height": 768,
+        "device": "pad"
+      }
     },
     {
       "id": "app-834af3aa",
@@ -89,13 +109,18 @@
         "Preset",
         "LocalApp"
       ],
-      "coverUrl": "",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-834af3aa/cover.png?v=1782465280820",
       "appUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-834af3aa/index.html",
       "manifestUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-834af3aa/manifest.json",
       "repoUrl": "https://github.com/shaon1994/localapp-gallery/tree/main/apps/app-834af3aa",
       "sourceFile": "code_artifact (4).html",
       "publishedAt": 1782465080854,
-      "updatedAt": 1782465080854
+      "updatedAt": 1782465080854,
+      "previewViewport": {
+        "width": 1024,
+        "height": 768,
+        "device": "pad"
+      }
     },
     {
       "id": "app-8fc54851",
@@ -108,13 +133,18 @@
         "Preset",
         "LocalApp"
       ],
-      "coverUrl": "",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-8fc54851/cover.png?v=1782465297164",
       "appUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-8fc54851/index.html",
       "manifestUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-8fc54851/manifest.json",
       "repoUrl": "https://github.com/shaon1994/localapp-gallery/tree/main/apps/app-8fc54851",
       "sourceFile": "code_artifact (5).html",
       "publishedAt": 1782465083314,
-      "updatedAt": 1782465083314
+      "updatedAt": 1782465083314,
+      "previewViewport": {
+        "width": 1024,
+        "height": 768,
+        "device": "pad"
+      }
     },
     {
       "id": "app-023f167b",
@@ -127,13 +157,18 @@
         "Preset",
         "LocalApp"
       ],
-      "coverUrl": "",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-023f167b/cover.png?v=1782465313847",
       "appUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-023f167b/index.html",
       "manifestUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-023f167b/manifest.json",
       "repoUrl": "https://github.com/shaon1994/localapp-gallery/tree/main/apps/app-023f167b",
       "sourceFile": "code_artifact (6).html",
       "publishedAt": 1782465085783,
-      "updatedAt": 1782465085783
+      "updatedAt": 1782465085783,
+      "previewViewport": {
+        "width": 1024,
+        "height": 768,
+        "device": "pad"
+      }
     },
     {
       "id": "app-5174e3d7",
@@ -146,13 +181,18 @@
         "Preset",
         "LocalApp"
       ],
-      "coverUrl": "",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-5174e3d7/cover.png?v=1782465330518",
       "appUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-5174e3d7/index.html",
       "manifestUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-5174e3d7/manifest.json",
       "repoUrl": "https://github.com/shaon1994/localapp-gallery/tree/main/apps/app-5174e3d7",
       "sourceFile": "code_artifact (7).html",
       "publishedAt": 1782465088651,
-      "updatedAt": 1782465088651
+      "updatedAt": 1782465088651,
+      "previewViewport": {
+        "width": 1024,
+        "height": 768,
+        "device": "pad"
+      }
     },
     {
       "id": "app-89610542",
@@ -165,13 +205,18 @@
         "Preset",
         "LocalApp"
       ],
-      "coverUrl": "",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-89610542/cover.png?v=1782465347673",
       "appUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-89610542/index.html",
       "manifestUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-89610542/manifest.json",
       "repoUrl": "https://github.com/shaon1994/localapp-gallery/tree/main/apps/app-89610542",
       "sourceFile": "family_ledger_assistant.html",
       "publishedAt": 1782465091539,
-      "updatedAt": 1782465091539
+      "updatedAt": 1782465091539,
+      "previewViewport": {
+        "width": 1024,
+        "height": 768,
+        "device": "pad"
+      }
     },
     {
       "id": "app-d0a6e4b3",
@@ -184,13 +229,18 @@
         "Preset",
         "LocalApp"
       ],
-      "coverUrl": "",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-d0a6e4b3/cover.png?v=1782465364457",
       "appUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-d0a6e4b3/index.html",
       "manifestUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-d0a6e4b3/manifest.json",
       "repoUrl": "https://github.com/shaon1994/localapp-gallery/tree/main/apps/app-d0a6e4b3",
       "sourceFile": "minecraft_number_adventure.html",
       "publishedAt": 1782465094336,
-      "updatedAt": 1782465094336
+      "updatedAt": 1782465094336,
+      "previewViewport": {
+        "width": 1024,
+        "height": 768,
+        "device": "pad"
+      }
     }
   ]
 }
