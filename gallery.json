@@ -1,5 +1,196 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-06-26T00:00:00+08:00",
-  "apps": []
+  "updatedAt": 1782465096601,
+  "apps": [
+    {
+      "id": "app-1dca1735",
+      "name": "我的世界 - AR实景捕捉乐园",
+      "icon": "我",
+      "description": "Preset page imported from ar.html",
+      "version": "1.0.0",
+      "author": "shaon1994",
+      "tags": [
+        "Preset",
+        "LocalApp"
+      ],
+      "coverUrl": "",
+      "appUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-1dca1735/index.html",
+      "manifestUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-1dca1735/manifest.json",
+      "repoUrl": "https://github.com/shaon1994/localapp-gallery/tree/main/apps/app-1dca1735",
+      "sourceFile": "ar.html",
+      "publishedAt": 1782465070400,
+      "updatedAt": 1782465070400
+    },
+    {
+      "id": "app-35d0c46a",
+      "name": "奇妙英语乐园 - Magic English Land",
+      "icon": "奇",
+      "description": "Preset page imported from code_artifact (1).html",
+      "version": "1.0.0",
+      "author": "shaon1994",
+      "tags": [
+        "Preset",
+        "LocalApp"
+      ],
+      "coverUrl": "",
+      "appUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-35d0c46a/index.html",
+      "manifestUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-35d0c46a/manifest.json",
+      "repoUrl": "https://github.com/shaon1994/localapp-gallery/tree/main/apps/app-35d0c46a",
+      "sourceFile": "code_artifact (1).html",
+      "publishedAt": 1782465073164,
+      "updatedAt": 1782465073164
+    },
+    {
+      "id": "app-ae79e028",
+      "name": "我的世界 - 5岁趣味启蒙乐园",
+      "icon": "我",
+      "description": "Preset page imported from code_artifact (2).html",
+      "version": "1.0.0",
+      "author": "shaon1994",
+      "tags": [
+        "Preset",
+        "LocalApp"
+      ],
+      "coverUrl": "",
+      "appUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-ae79e028/index.html",
+      "manifestUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-ae79e028/manifest.json",
+      "repoUrl": "https://github.com/shaon1994/localapp-gallery/tree/main/apps/app-ae79e028",
+      "sourceFile": "code_artifact (2).html",
+      "publishedAt": 1782465075913,
+      "updatedAt": 1782465075913
+    },
+    {
+      "id": "app-1f39e891",
+      "name": "我的世界 - 像素互动图鉴",
+      "icon": "我",
+      "description": "Preset page imported from code_artifact (3).html",
+      "version": "1.0.0",
+      "author": "shaon1994",
+      "tags": [
+        "Preset",
+        "LocalApp"
+      ],
+      "coverUrl": "",
+      "appUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-1f39e891/index.html",
+      "manifestUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-1f39e891/manifest.json",
+      "repoUrl": "https://github.com/shaon1994/localapp-gallery/tree/main/apps/app-1f39e891",
+      "sourceFile": "code_artifact (3).html",
+      "publishedAt": 1782465078430,
+      "updatedAt": 1782465078430
+    },
+    {
+      "id": "app-834af3aa",
+      "name": "奇幻汉字魔法世界 - 4岁识字书写全感官沙盒",
+      "icon": "奇",
+      "description": "Preset page imported from code_artifact (4).html",
+      "version": "1.0.0",
+      "author": "shaon1994",
+      "tags": [
+        "Preset",
+        "LocalApp"
+      ],
+      "coverUrl": "",
+      "appUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-834af3aa/index.html",
+      "manifestUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-834af3aa/manifest.json",
+      "repoUrl": "https://github.com/shaon1994/localapp-gallery/tree/main/apps/app-834af3aa",
+      "sourceFile": "code_artifact (4).html",
+      "publishedAt": 1782465080854,
+      "updatedAt": 1782465080854
+    },
+    {
+      "id": "app-8fc54851",
+      "name": "神笔汉字魔法学院 - 全感官识字书写物理沙盒",
+      "icon": "神",
+      "description": "Preset page imported from code_artifact (5).html",
+      "version": "1.0.0",
+      "author": "shaon1994",
+      "tags": [
+        "Preset",
+        "LocalApp"
+      ],
+      "coverUrl": "",
+      "appUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-8fc54851/index.html",
+      "manifestUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-8fc54851/manifest.json",
+      "repoUrl": "https://github.com/shaon1994/localapp-gallery/tree/main/apps/app-8fc54851",
+      "sourceFile": "code_artifact (5).html",
+      "publishedAt": 1782465083314,
+      "updatedAt": 1782465083314
+    },
+    {
+      "id": "app-023f167b",
+      "name": "神笔马良魔法画板",
+      "icon": "神",
+      "description": "Preset page imported from code_artifact (6).html",
+      "version": "1.0.0",
+      "author": "shaon1994",
+      "tags": [
+        "Preset",
+        "LocalApp"
+      ],
+      "coverUrl": "",
+      "appUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-023f167b/index.html",
+      "manifestUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-023f167b/manifest.json",
+      "repoUrl": "https://github.com/shaon1994/localapp-gallery/tree/main/apps/app-023f167b",
+      "sourceFile": "code_artifact (6).html",
+      "publishedAt": 1782465085783,
+      "updatedAt": 1782465085783
+    },
+    {
+      "id": "app-5174e3d7",
+      "name": "卡通萌萌计算器 🐱",
+      "icon": "卡",
+      "description": "Preset page imported from code_artifact (7).html",
+      "version": "1.0.0",
+      "author": "shaon1994",
+      "tags": [
+        "Preset",
+        "LocalApp"
+      ],
+      "coverUrl": "",
+      "appUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-5174e3d7/index.html",
+      "manifestUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-5174e3d7/manifest.json",
+      "repoUrl": "https://github.com/shaon1994/localapp-gallery/tree/main/apps/app-5174e3d7",
+      "sourceFile": "code_artifact (7).html",
+      "publishedAt": 1782465088651,
+      "updatedAt": 1782465088651
+    },
+    {
+      "id": "app-89610542",
+      "name": "家庭记账助手 - 智能共享家庭财务",
+      "icon": "家",
+      "description": "Preset page imported from family_ledger_assistant.html",
+      "version": "1.0.0",
+      "author": "shaon1994",
+      "tags": [
+        "Preset",
+        "LocalApp"
+      ],
+      "coverUrl": "",
+      "appUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-89610542/index.html",
+      "manifestUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-89610542/manifest.json",
+      "repoUrl": "https://github.com/shaon1994/localapp-gallery/tree/main/apps/app-89610542",
+      "sourceFile": "family_ledger_assistant.html",
+      "publishedAt": 1782465091539,
+      "updatedAt": 1782465091539
+    },
+    {
+      "id": "app-d0a6e4b3",
+      "name": "我的世界：数字大冒险",
+      "icon": "我",
+      "description": "Preset page imported from minecraft_number_adventure.html",
+      "version": "1.0.0",
+      "author": "shaon1994",
+      "tags": [
+        "Preset",
+        "LocalApp"
+      ],
+      "coverUrl": "",
+      "appUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-d0a6e4b3/index.html",
+      "manifestUrl": "https://cdn.jsdelivr.net/gh/shaon1994/localapp-gallery@main/apps/app-d0a6e4b3/manifest.json",
+      "repoUrl": "https://github.com/shaon1994/localapp-gallery/tree/main/apps/app-d0a6e4b3",
+      "sourceFile": "minecraft_number_adventure.html",
+      "publishedAt": 1782465094336,
+      "updatedAt": 1782465094336
+    }
+  ]
 }
